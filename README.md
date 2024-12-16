@@ -1,15 +1,18 @@
 # -Analyzing-E-Commerce-User-Behavior-to-Enhance-Product-Recommendations-and-Sales-Strategies
 
 Project Overview :
+______________________________________________________________________________________________
 
 This project aims to analyze user behavior in e-commerce platforms to improve product recommendations and develop effective sales strategies. By leveraging data-driven insights, the project seeks to optimize the user experience, increase customer retention, and drive sales growth.
 
 Objectives :
+_______________________________________________________________________________________________
 Understand User Behavior: Analyze data to uncover patterns in user interactions with the platform, such as browsing, searching, and purchasing activities.
 Enhance Product Recommendations: Build recommendation systems tailored to individual user preferences using advanced machine learning techniques.
 Optimize Sales Strategies: Identify key factors influencing purchase decisions to develop targeted marketing campaigns and pricing strategies.
 
 Dataset
+_______________________________________________________________________________________________
 Source: Data collected from Kaggle, including transactional data, user activity logs, and product information.
 
 Key Features:
@@ -21,6 +24,7 @@ Key Features:
 6.Click-through rates
 
 Methodology :
+__________________________________________________________________________________________________
 
 A)Data Preprocessing:
 Cleaning and transforming raw data to ensure consistency.
@@ -50,6 +54,7 @@ Segmenting users based on purchasing behavior.
 Personalized marketing strategies.
 
 Tools and Technologies:
+___________________________________________________________________________________________________
 Programming Languages: Python
 Libraries:
 Data Analysis: pandas, numpy
